@@ -43,7 +43,7 @@
             app:layout_constraintTop_toTopOf="@+id/symbol" />
 
         <TextView
-            android:id="@+id/name"
+            android:id="@+id/Confirmpass"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
